@@ -21,7 +21,7 @@
     "tastyigniter-theme": {
       "code": "tastyigniter-orange",
       "name": "Orange Theme",
-      "locked": true,
+      "locked": false,
       "require": {
         "igniter.cart": "*",
         "igniter.coupons": "*",
